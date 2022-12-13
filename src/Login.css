@@ -1,0 +1,32 @@
+
+
+.login__logo {
+    height: 15vmin;
+margin-bottom: 2rem;
+}
+
+
+.h-80 {
+    height: 80% !important;
+    margin: 3rem 1rem 3rem 1rem;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.login__titulo{
+    color: #4e0e0e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    font-size:larger;
+    top: 10%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    width: 100%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    
+
+}
+
